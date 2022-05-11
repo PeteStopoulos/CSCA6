@@ -1,4 +1,4 @@
-//Contract For SCA Coin
+//Contract For CSCA6 Coin
 //Website - http://csca.io
 
 
